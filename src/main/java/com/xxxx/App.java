@@ -13,5 +13,7 @@ public class App
         System.out.println( "Hello World!3" );
         System.out.println( "Hello World!3" );
         System.out.println( "Hello World!dev" );
+        System.out.println( "Hello World!dev2" );
+        System.out.println( "Hello World!dev3" );
     }
 }
